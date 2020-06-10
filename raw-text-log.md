@@ -1,7 +1,7 @@
 == logs
 
 Retrieve the log output for a specific build, BuildConfig, DeploymentConfig, or
-Pod.
+Pod using the following example.
 
 .Example: Stream the latest logs from the `python` DeploymentConfig
 ----
